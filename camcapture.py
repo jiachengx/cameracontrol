@@ -1,7 +1,3 @@
-# purpose:
-# Capture the video from any Webcam and then save to file under Windows Platform.
-# date: 2019/06/13 23:35
-
 import sys
 import platform
 import cv2
